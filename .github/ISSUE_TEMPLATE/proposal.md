@@ -1,7 +1,7 @@
 ---
 name: Proposal
-about: Wanted to add Algorithm. This issue best for you...
-title: '<!--Algorithm name]--> in <!--[language-->'
+about: Wanted to add documentation for doubly linked list algorithm.
+title: '<!--Algorithm name]--> in <!--[en-->'
 labels: Proposal
 assignees: ''
 
@@ -11,7 +11,7 @@ assignees: ''
 <!--
 i.e: What the given algorithm do and i.e. Type of algorithm array,stack
 -->
-(Type here)
+Hi, I would love to work on the documentation for the doubly linked list algorithm if no one has been asigned to work on it already.
 ### Have you read the [Contributing.md](https://github.com/MakeContributions/DSA/blob/main/CONTRIBUTING.md) and [Code of conduct](https://github.com/MakeContributions/DSA/blob/main/CODE_OF_CONDUCT.md)
 <!-- Choose any one of them -->
 - [ ] Yes
